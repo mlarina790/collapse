@@ -1,6 +1,6 @@
 dist
 doc
-.yarn
+.yarn*
 
 # Logs
 logs
